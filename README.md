@@ -1,2 +1,2 @@
-# CC
-Cloud Computing
+# Exam
+Sem 1
